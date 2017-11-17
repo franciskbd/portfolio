@@ -1,0 +1,24 @@
+.pictext{
+  text-align: center;
+  font-size: 30px;
+}
+.btn{
+  display: inline;
+  align: center;
+  padding: 20px;
+
+
+}
+.image{
+  position: absolute;
+  margin-top:70px;
+  min-height: 90vh;
+}
+.btn{
+  text-align: center;
+margin: 50px 80px;
+}
+.container{
+  margin-top: 60px;
+  height: auto;
+}

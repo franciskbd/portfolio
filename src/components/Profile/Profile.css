@@ -1,0 +1,8 @@
+.profile{
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  border: 1.5px solid slateblue;
+  background-size: cover;
+  background-position: top;
+}
